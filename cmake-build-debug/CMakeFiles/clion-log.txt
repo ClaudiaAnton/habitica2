@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -DCMAKE_PREFIX_PATH=/Users/antonclaudia/Qt/6.2.1/macos/lib/cmake -G Ninja /Users/antonclaudia/CLionProjects/habitica
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/antonclaudia/CLionProjects/habitica/cmake-build-debug
